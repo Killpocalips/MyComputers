@@ -15,6 +15,16 @@
 		CB0158A81F9548A7004F7E82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB0158A61F9548A7004F7E82 /* LaunchScreen.storyboard */; };
 		CB0158B31F9548A7004F7E82 /* MyComputersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0158B21F9548A7004F7E82 /* MyComputersTests.swift */; };
 		CB0158BE1F9548A7004F7E82 /* MyComputersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0158BD1F9548A7004F7E82 /* MyComputersUITests.swift */; };
+		CB0158D71F954F6F004F7E82 /* Apple ii.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158CD1F954F6F004F7E82 /* Apple ii.jpg */; };
+		CB0158D81F954F6F004F7E82 /* Apple iii.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158CE1F954F6F004F7E82 /* Apple iii.jpg */; };
+		CB0158D91F954F6F004F7E82 /* Apple Lisa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158CF1F954F6F004F7E82 /* Apple Lisa.jpg */; };
+		CB0158DA1F954F6F004F7E82 /* DEC Rainbow 100.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D01F954F6F004F7E82 /* DEC Rainbow 100.jpg */; };
+		CB0158DB1F954F6F004F7E82 /* IBM 5100.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D11F954F6F004F7E82 /* IBM 5100.jpg */; };
+		CB0158DC1F954F6F004F7E82 /* IBM 5150.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D21F954F6F004F7E82 /* IBM 5150.jpg */; };
+		CB0158DD1F954F6F004F7E82 /* IBM PCjr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D31F954F6F004F7E82 /* IBM PCjr.jpg */; };
+		CB0158DE1F954F6F004F7E82 /* IBM PS2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D41F954F6F004F7E82 /* IBM PS2.jpg */; };
+		CB0158DF1F954F6F004F7E82 /* IBM System 23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D51F954F6F004F7E82 /* IBM System 23.jpg */; };
+		CB0158E01F954F6F004F7E82 /* Kaypro II.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0158D61F954F6F004F7E82 /* Kaypro II.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +59,16 @@
 		CB0158B91F9548A7004F7E82 /* MyComputersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyComputersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB0158BD1F9548A7004F7E82 /* MyComputersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyComputersUITests.swift; sourceTree = "<group>"; };
 		CB0158BF1F9548A7004F7E82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB0158CD1F954F6F004F7E82 /* Apple ii.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Apple ii.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158CE1F954F6F004F7E82 /* Apple iii.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Apple iii.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158CF1F954F6F004F7E82 /* Apple Lisa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Apple Lisa.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D01F954F6F004F7E82 /* DEC Rainbow 100.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DEC Rainbow 100.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D11F954F6F004F7E82 /* IBM 5100.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IBM 5100.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D21F954F6F004F7E82 /* IBM 5150.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IBM 5150.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D31F954F6F004F7E82 /* IBM PCjr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IBM PCjr.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D41F954F6F004F7E82 /* IBM PS2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IBM PS2.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D51F954F6F004F7E82 /* IBM System 23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IBM System 23.jpg"; sourceTree = SOURCE_ROOT; };
+		CB0158D61F954F6F004F7E82 /* Kaypro II.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kaypro II.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +121,7 @@
 			children = (
 				CB01589B1F9548A7004F7E82 /* AppDelegate.swift */,
 				CB01589D1F9548A7004F7E82 /* MasterViewController.swift */,
+				CB0158CC1F954F5A004F7E82 /* photos */,
 				CB01589F1F9548A7004F7E82 /* DetailViewController.swift */,
 				CB0158A11F9548A7004F7E82 /* Main.storyboard */,
 				CB0158A41F9548A7004F7E82 /* Assets.xcassets */,
@@ -126,6 +147,23 @@
 				CB0158BF1F9548A7004F7E82 /* Info.plist */,
 			);
 			path = MyComputersUITests;
+			sourceTree = "<group>";
+		};
+		CB0158CC1F954F5A004F7E82 /* photos */ = {
+			isa = PBXGroup;
+			children = (
+				CB0158CD1F954F6F004F7E82 /* Apple ii.jpg */,
+				CB0158CE1F954F6F004F7E82 /* Apple iii.jpg */,
+				CB0158CF1F954F6F004F7E82 /* Apple Lisa.jpg */,
+				CB0158D01F954F6F004F7E82 /* DEC Rainbow 100.jpg */,
+				CB0158D11F954F6F004F7E82 /* IBM 5100.jpg */,
+				CB0158D21F954F6F004F7E82 /* IBM 5150.jpg */,
+				CB0158D31F954F6F004F7E82 /* IBM PCjr.jpg */,
+				CB0158D41F954F6F004F7E82 /* IBM PS2.jpg */,
+				CB0158D51F954F6F004F7E82 /* IBM System 23.jpg */,
+				CB0158D61F954F6F004F7E82 /* Kaypro II.jpg */,
+			);
+			name = photos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,9 +273,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB0158D81F954F6F004F7E82 /* Apple iii.jpg in Resources */,
+				CB0158E01F954F6F004F7E82 /* Kaypro II.jpg in Resources */,
+				CB0158DB1F954F6F004F7E82 /* IBM 5100.jpg in Resources */,
 				CB0158A81F9548A7004F7E82 /* LaunchScreen.storyboard in Resources */,
+				CB0158DE1F954F6F004F7E82 /* IBM PS2.jpg in Resources */,
 				CB0158A51F9548A7004F7E82 /* Assets.xcassets in Resources */,
 				CB0158A31F9548A7004F7E82 /* Main.storyboard in Resources */,
+				CB0158DF1F954F6F004F7E82 /* IBM System 23.jpg in Resources */,
+				CB0158D91F954F6F004F7E82 /* Apple Lisa.jpg in Resources */,
+				CB0158DD1F954F6F004F7E82 /* IBM PCjr.jpg in Resources */,
+				CB0158DA1F954F6F004F7E82 /* DEC Rainbow 100.jpg in Resources */,
+				CB0158DC1F954F6F004F7E82 /* IBM 5150.jpg in Resources */,
+				CB0158D71F954F6F004F7E82 /* Apple ii.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +471,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.RockValleyCollege.MyComputers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -435,6 +484,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.RockValleyCollege.MyComputers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
